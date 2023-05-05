@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683298788 source:c:\users\lfeak\onedrive\documents\c_works\facturation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
